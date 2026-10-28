@@ -1,8 +1,8 @@
-# BACH Frontier — Hospital Efficiency & Healthcare Value Analytics
+# BACH Frontier - Hospital Efficiency & Healthcare Value Analytics
 
 **Healthcare Analytics | Machine Learning | Data Envelopment Analysis | Predictive Modeling | Optimization**
 
-*University of Minnesota — Carlson Interdisciplinary Healthcare Analytics Competition 2026*
+*University of Minnesota - Carlson Interdisciplinary Healthcare Analytics Competition 2026*
 
 ## Project Overview
 
