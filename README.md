@@ -14,7 +14,8 @@ The analysis considers both safety-net and non-safety-net hospitals, with partic
 
 ## Analytical Framework
 
-![Analytical Framework](figures/analytical_framework.png)
+<img width="848" height="492" alt="image" src="https://github.com/user-attachments/assets/007ec03a-8ac7-4092-8667-80dd39a6ae33" />
+
 
 The project follows four analytical phases:
 
@@ -56,7 +57,8 @@ The analysis investigates how hospitals convert financial and operational resour
 
 ### 2. Hospital Efficiency Distribution
 
-![Hospital Efficiency Distribution](figures/efficiency_distribution.png)
+<img width="642" height="517" alt="image" src="https://github.com/user-attachments/assets/05d250e5-3dfd-4088-99c8-6a6fa5c8de75" />
+
 
 This visualization compares the distribution of DEA efficiency scores between safety-net and non-safety-net hospitals.
 
@@ -89,7 +91,8 @@ The evaluation used a stratified random split. These metrics describe classifica
 
 ### 5. Cost–Quality Efficiency Frontier
 
-![Hospital Cost–Quality Frontier](figures/cost_quality_frontier.png)
+<img width="983" height="705" alt="image" src="https://github.com/user-attachments/assets/c30bf847-9478-43ce-afbe-85c6252bf6a8" />
+
 
 The cost–quality visualization explores the relationship between hospital quality scores and cost per case.
 
@@ -101,7 +104,8 @@ The displayed example focuses on acute myocardial infarction (AMI) in 2017.
 
 A financial scenario analysis was conducted to explore how hospital revenue reductions could affect financial sustainability and whether modeled operational improvements might offset part of the losses.
 
-![Medicaid Funding-Shock Analysis](figures/revenue_shock_waterfall.png)
+<img width="1212" height="715" alt="image" src="https://github.com/user-attachments/assets/5c78a707-ffe2-4007-8940-bc9224d928ea" />
+
 
 The illustrated example considers:
 - Baseline hospital income
